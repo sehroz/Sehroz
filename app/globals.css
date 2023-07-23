@@ -67,3 +67,11 @@
     --ring: 217.2 32.6% 17.5%;
   }
 }
+.bg-gradient-curved {
+  background: radial-gradient(
+    circle at 20% 70%,
+    /* Adjust the position to make the curve more prominent */ #fcd34d 50%,
+    transparent 70%
+  );
+  z-index: -1;
+}
