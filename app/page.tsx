@@ -13,7 +13,7 @@ export default function Home() {
         quantity={100}
       />{" "}
       <div className=" w-4/12">
-        <h2 className="text-sm text-zinc-100 ">Hey, I'm</h2>{" "}
+        <h2 className="text-sm text-zinc-100 ">Hey, I am</h2>{" "}
       </div>
       <h1 className="z-10 text-7xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
         Sehroz.
