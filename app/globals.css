@@ -69,7 +69,7 @@
 }
 .bg-gradient-curved {
   background: radial-gradient(
-    circle at 0% -60%,
+    circle at 0% -70%,
     /* Adjust the position to make the curve more prominent */ #fcd34d 50%,
     transparent 66%
   );
